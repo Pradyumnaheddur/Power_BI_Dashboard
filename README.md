@@ -1,6 +1,6 @@
 # Power BI Hospitality Insights Dashboard
 # Overview
-![Dashboard](https://github.com/Pradyumnaheddur/Power_BI_Dashboard/blob/master/Dashboard%20Screenshot.png)
+![Dashboard](https://github.com/Pradyumnaheddur/Power_BI_Dashboard/blob/master/Utils/Dashboard%20Screenshot.png)
 
 The Power BI Hospitality Insights Dashboard is an interactive reporting tool designed for the hospitality industry. It provides dynamic visualizations and insights tailored to enhance sales and operational processes, enabling stakeholders to make data-driven decisions for improving hotel performance.
 
